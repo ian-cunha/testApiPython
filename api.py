@@ -21,4 +21,4 @@ def criar_usuario():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='https://vercel.com/ian-cunha/test-api-python', debug=True)
